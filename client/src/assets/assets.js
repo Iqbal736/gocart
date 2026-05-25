@@ -507,27 +507,27 @@ export const categories = [
       {
         name:"Tea",
         image: Tea,
-        path:""
+        path:"tea"
       },
       {
         name:"Coffee",
         image: Coffee,
-        path:""
+        path:"coffee"
       },
       {
         name:"Green & Flavoured Tea ",
         image: green_Tea,
-        path:""
+        path:"green-tea"
       },
       {
         name:"Milk Drinks",
         image: Milk_Drinks,
-        path:""
+        path:"milk-drinks"
       },
       {
         name:"Hot Chocolate",
         image: Hot_Chocolate,
-        path:""
+        path:"hot-chocolate"
       },
 
     ]
@@ -541,37 +541,37 @@ export const categories = [
       {
         name:"Cookies",
         image: Cookies,
-        path:""
+        path:"cookies"
       },
       {
         name:"Cream Biscuits",
         image: Creame_Biscuit,
-        path:""
+        path:"cream-biscuits"
       },
       {
         name:"Glucose & Marie",
         image: Glucose_Biscuit,
-        path:""
+        path:"glucose-biscuits"
       },
       {
         name:"Healthy & Digestive",
         image:Digestive_Biscuit, 
-        path:""
+        path:"digestive-biscuits"
       },
       {
         name:"Rusks, Khari & Waffers",
         image: Toast,
-        path:""
+        path:"rusks"
       },
       {
         name:"Cakes & Rolls",
         image: Cake,
-        path:""
+        path:"cakes-rolls"
       },
       {
         name:"Sweet & Salty",
         image: Sweet_Salty,
-        path:""
+        path:"sweet-salty"
       },
     ]
   },
@@ -604,7 +604,7 @@ export const categories = [
       {
         name: "Honey & Chyawanprash",
         image: Honey,
-        path: ""
+        path: "honey"
       },
       {
         name: "Syrups",
@@ -657,27 +657,27 @@ export const categories = [
       {
         name: "Besan, Sooji & Maida",
         image: Besan,
-        path:"",
+        path:"Besan, Sooji & Maida",
       },
       {
         name: "Poha, Daliya & Others",
         image: Poha,
-        path:"",
+        path:"Poha, Daliya & Others",
       },
       {
         name: "Millet & Other Flours",
         image: Millet,
-        path:"",
+        path:"Millet & Other Flours",
       },
       {
         name: "Rajma, Chole & Others",
         image: Rajma,
-        path:"",
+        path:"Rajma, Chole & Others",
       },
       {
         name: "Moong & Masoor",
         image: Moong,
-        path:"",
+        path:"Moong & Masoor",
       },
     ]
   },
@@ -877,32 +877,32 @@ export const categories = [
       {
         name: "Pooja Needs",
         image: Pooja_Needs,
-        path: ""
+        path: "pooja-needs"
       },
       {
         name: "Party Essentials",
         image: Party_Essentials,
-        path: ""
+        path: "party-essentials"
       },
       {
         name: "Tissues & Disposables",
         image: Tissues,
-        path: ""
+        path: "tissues-disposables"
       },
       {
         name: "Repellents",
         image: Repellents,
-        path: ""
+        path: "repellents"
       },
       {
         name: "Kitchen & Dining Needs",
         image: Kitchen_Needs,
-        path: ""
+        path: "kitchen-needs"
       },
       {
         name: "Stationaries",
         image: Stationaries,
-        path:"",
+        path:"stationaries",
       }
     ]
   },
